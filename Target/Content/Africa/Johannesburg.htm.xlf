@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Johannesburg.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="Johannesburg.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">22</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11"
+        tool-name="Lingo"
+        tool-version="11.0.7114.18196"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Johannesburg</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Johannesburg</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Johannesburg is the largest city in South Africa and one of the 50 largest urban areas in the world. It is the provincial capital and largest city of Gauteng, which is the wealthiest province in South Africa. While Johannesburg is not one of South Africa's three capital cities, it is the seat of the Constitutional Court. The city is located in the mineral-rich Witwatersrand range of hills and is the center of large-scale gold and diamond trade.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Johannesburg is the largest city in South Africa and one of the 50 largest urban areas in the world.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">It is the provincial capital and largest city of Gauteng, which is the wealthiest province in South Africa.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">While Johannesburg is not one of South Africa's three capital cities, it is the seat of the Constitutional Court.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">The city is located in the mineral-rich Witwatersrand range of hills and is the center of large-scale gold and diamond trade.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>The metropolis is an alpha global city as listed by the Globalization and World Cities Research Network. In 2011, the population of the city of Johannesburg was 4,434,827, making it the most populous city in South Africa. In the same year, the population of Johannesburg's urban agglomeration was put at 7,860,781. The land area of the municipal city (1,645 km<bpt
+            id="1"
+            ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>2<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept> (635 sq mi)) is large in comparison with those of other major cities, resulting in a moderate population density of 2,364/km<bpt
+            id="2"
+            ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>2<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept> (6,120/sq mi).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The metropolis is an alpha global city as listed by the Globalization and World Cities Research Network.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">In 2011, the population of the city of Johannesburg was 4,434,827, making it the most populous city in South Africa.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">In the same year, the population of Johannesburg's urban agglomeration was put at 7,860,781.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">The land area of the municipal city (1,645 km<bpt
+              id="1"
+              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>2<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept> (635 sq mi)) is large in comparison with those of other major cities, resulting in a moderate population density of 2,364/km<bpt
+              id="2"
+              ctype="x-superscript" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;sup&gt;</bpt>2<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/sup&gt;</ept> (6,120/sq mi).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>The city was established in 1886 following the discovery of gold on what had been a farm. The city is commonly interpreted as the modern day El Dorado due to the extremely large gold deposit found along the Witwatersrand. The name is attributed to one or all of three men involved in the establishment of the city. In ten years, the population grew to 100,000 inhabitants.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The city was established in 1886 following the discovery of gold on what had been a farm.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">The city is commonly interpreted as the modern day El Dorado due to the extremely large gold deposit found along the Witwatersrand.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">The name is attributed to one or all of three men involved in the establishment of the city.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">In ten years, the population grew to 100,000 inhabitants.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

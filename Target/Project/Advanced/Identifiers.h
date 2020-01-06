@@ -1,0 +1,2 @@
+#define CHANGE_THIS_NAME	1
+#define XXXXXXXX 1000

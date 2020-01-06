@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="../TableStyles/SanFranTableStyle.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../TableStyles/SanFranTableStyle.css');" class="TableStyle-SanFranTableStyle" cellspacing="0">
+            <col class="TableStyle-SanFranTableStyle-Column-Column1" />
+            <col class="TableStyle-SanFranTableStyle-Column-Column2" />
+            <col class="TableStyle-SanFranTableStyle-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-SanFranTableStyle-Body-Body1">
+                    <td class="TableStyle-SanFranTableStyle-BodyE-Column1-Body1" style="text-align: center;">砻קยด1ตว融</td>
+                    <td class="TableStyle-SanFranTableStyle-BodyE-Column2-Body1" style="text-align: center;">砻קยด2ตว融</td>
+                    <td class="TableStyle-SanFranTableStyle-BodyD-Column1-Body1" style="text-align: center;">砻קยด3ตว融</td>
+                </tr>
+                <tr class="TableStyle-SanFranTableStyle-Body-Body1">
+                    <td class="TableStyle-SanFranTableStyle-BodyE-Column1-Body1" style="text-align: center;">砻קยด4ตว融</td>
+                    <td class="TableStyle-SanFranTableStyle-BodyE-Column2-Body1" style="text-align: center;">砻קยด5ตว融</td>
+                    <td class="TableStyle-SanFranTableStyle-BodyD-Column1-Body1" style="text-align: center;">砻קยด6ตว融</td>
+                </tr>
+                <tr class="TableStyle-SanFranTableStyle-Body-Body1">
+                    <td class="TableStyle-SanFranTableStyle-BodyB-Column1-Body1" style="text-align: center;">砻קยด7ตว融</td>
+                    <td class="TableStyle-SanFranTableStyle-BodyB-Column2-Body1" style="text-align: center;">砻קยด8ตว融</td>
+                    <td class="TableStyle-SanFranTableStyle-BodyA-Column1-Body1" style="text-align: center;">砻קยด9ตว融</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

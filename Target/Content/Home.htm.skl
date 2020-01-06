@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1 class="home">砻קยด1ตว融</h1>
+        <div class="home">
+            <div>
+                <p><a href="Africa/Africa.htm"><img src="Resources/Images/africa.png" /></a>
+                </p>
+                <p><a href="Africa/Africa.htm">砻קยด2ตว融</a>
+                </p>
+            </div>
+            <div>
+                <p><a href="Asia/Asia.htm"><img src="Resources/Images/asia.png" /></a>
+                </p>
+                <p><a href="Asia/Asia.htm">砻קยด3ตว融</a>
+                </p>
+            </div>
+            <div>
+                <p>
+                    <img src="Resources/Images/europe.png" />
+                </p>
+                <p>砻קยด4ตว融</p>
+            </div>
+        </div>
+        <div class="home">
+            <div>
+                <p><a href="North America/North America.htm"><img src="Resources/Images/north_america.png" /></a>
+                </p>
+                <p><a href="North America/North America.htm">砻קยด5ตว融</a>
+                </p>
+            </div>
+            <div>
+                <p><a href="Oceania/Oceania.htm"><img src="Resources/Images/oceania.png" /></a>
+                </p>
+                <p><a href="Oceania/Oceania.htm">砻קยด6ตว融</a>
+                </p>
+            </div>
+            <div>
+                <p><a href="South America/South America.htm"><img src="Resources/Images/south_america.png" /></a>
+                </p>
+                <p><a href="South America/South America.htm">砻קยด7ตว融</a>
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

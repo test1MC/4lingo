@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=System.LinkedHeader%]" Link="/Content/South America/South America.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/South America/Bogota.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/South America/Lima.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/South America/Rio.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/South America/Santiago.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedHeader%]" Link="/Content/Africa/Africa.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Africa/Cairo.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Africa/Johannesburg.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Africa/Nairobi.htm" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedHeader%]" Link="/Content/Asia/Asia.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Asia/Jakarta.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Asia/Shanghai.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Asia/Tokyo.htm" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedHeader%]" Link="/Content/North America/North America.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/North America/Mexico City.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/North America/New York.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/North America/Toronto.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/North America/San Diego.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/North America/San Francisco.htm" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedHeader%]" Link="/Content/Oceania/Oceania.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Oceania/Brisbane.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Oceania/Melbourne.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Oceania/Sydney.htm" />
+    </TocEntry>
+</CatapultToc>
