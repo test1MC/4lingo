@@ -55,9 +55,11 @@
             MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Lima  is the capital and the largest city of Peru. It is located in the valleys of the Chillón, Rímac and Lurín rivers, in the central coastal part of the country, overlooking the Pacific Ocean. With a population of more than 10 million, Lima is the most populous metropolitan area of Peru and the second-largest city in the Americas.</source><seg-source><mrk
+        phase-name="pretrans"><source>Lima<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">  </ph>is the capital and the largest city of Peru. It is located in the valleys of the Chillón, Rímac and Lurín rivers, in the central coastal part of the country, overlooking the Pacific Ocean. With a population of more than 10 million, Lima is the most populous metropolitan area of Peru and the second-largest city in the Americas.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Lima is the capital and the largest city of Peru.</mrk><mrk
+            mid="1">Lima<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">  </ph>is the capital and the largest city of Peru.</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
@@ -70,7 +72,8 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"

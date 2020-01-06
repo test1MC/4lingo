@@ -55,9 +55,11 @@
             MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Toronto  is the capital city of the province of Ontario and the largest city in Canada by population, with 2,731,571 residents in 2016. Also in 2016, the Toronto census metropolitan area (CMA), the majority of which is within the Greater Toronto Area (GTA), had a population of 5,928,040, making it Canada’s most populous CMA. Toronto is the anchor of an urban agglomeration, known as the Golden Horseshoe, in Southern Ontario on the northwestern shore of Lake Ontario. A global city, Toronto is a center of business, finance, arts, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.</source><seg-source><mrk
+        phase-name="pretrans"><source>Toronto<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">  </ph>is the capital city of the province of Ontario and the largest city in Canada by population, with 2,731,571 residents in 2016. Also in 2016, the Toronto census metropolitan area (CMA), the majority of which is within the Greater Toronto Area (GTA), had a population of 5,928,040, making it Canada’s most populous CMA. Toronto is the anchor of an urban agglomeration, known as the Golden Horseshoe, in Southern Ontario on the northwestern shore of Lake Ontario. A global city, Toronto is a center of business, finance, arts, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Toronto is the capital city of the province of Ontario and the largest city in Canada by population, with 2,731,571 residents in 2016.</mrk><mrk
+            mid="1">Toronto<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">  </ph>is the capital city of the province of Ontario and the largest city in Canada by population, with 2,731,571 residents in 2016.</mrk><mrk
             mtype="protected"
             mid="2"> </mrk><mrk
             mtype="seg"
@@ -74,7 +76,8 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"

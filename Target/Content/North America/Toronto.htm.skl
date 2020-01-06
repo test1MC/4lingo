@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve" madcap-space-after-export="preserve">
     <head>
     </head>
     <body>
@@ -22,8 +22,8 @@
                     <th>
                         <h3>砻קยด6ตว融</h3>
                     </th>
-                    <th>&#160;</th>
-                    <th>&#160;</th>
+                    <th> </th>
+                    <th> </th>
                 </tr>
             </thead>
             <tbody>
@@ -32,31 +32,31 @@
                     <td>
                         <p>砻קยด8ตว融</p>
                     </td>
-                    <td>&#160;</td>
+                    <td> </td>
                 </tr>
                 <tr>
                     <td>砻קยด9ตว融</td>
                     <td>砻קยด10ตว融</td>
-                    <td>&#160;</td>
+                    <td> </td>
                 </tr>
                 <tr>
                     <td>砻קยด11ตว融</td>
                     <td>
                         <p>砻קยด12ตว融</p>
                     </td>
-                    <td>&#160;</td>
+                    <td> </td>
                 </tr>
                 <tr>
                     <td>砻קยด13ตว融</td>
                     <td>
                         <p>砻קยด14ตว融</p>
                     </td>
-                    <td>&#160;</td>
+                    <td> </td>
                 </tr>
                 <tr>
                     <td>砻קยด15ตว融</td>
                     <td>砻קยด16ตว融</td>
-                    <td>&#160;</td>
+                    <td> </td>
                 </tr>
             </tbody>
         </table>
